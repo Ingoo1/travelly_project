@@ -1,3 +1,3 @@
 # travelly_project
 
-## [Demo link](https://leafy-starburst-97070d.netlify.app)
+## [Demo link](https://statuesque-stardust-18b034.netlify.app)
